@@ -1,1 +1,0 @@
-If you can read this, our GitHub API commit test was a success!
